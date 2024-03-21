@@ -1,7 +1,14 @@
 [package]
 name = "unimotion-rs"
 version = "0.1.0"
+authors = ["SCARTbut8K <contacting.me.from.github.com@ttys.ca>"]
+repository = "https://github.com/SCARTbut8K/unimotion-rs"
+description = "A library to interface Uni-motion's Unisensors with slime-wrangler"
 edition = "2021"
+readme = "README.md"
+categories = ["game-development", "hardware-support"]
+keywords = ["vr", "unisensor"]
+license = "GPL-3.0-only"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
